@@ -1,0 +1,5 @@
+project
+venv
+bin
+lib
+.vscode
